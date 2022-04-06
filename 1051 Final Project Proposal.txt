@@ -1,0 +1,45 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+The Las Vegas Trail
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+My project will be like the Oregon Trail, except it is a road trip on spring break from Philadelphia to Las Vegas. You will have to keep the friend group alive and spare extra money (or not) for when you reach the casino.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+	In the beginning, you will be able to use input statements to enter player's names and where you want to spend your money on before going on the trip. Since I am working as one person, the game will not be as detailed as the real Oregon Trail game.
+From here, a counter with where you have spent your supplies and morale of each player will begin so that as the trip goes along, the import random function will randomly decrease morale. As you continue along your trip, you will have options in regards to which way you will go and where you want to spend your money.
+Eventually, through the random function, if a team player's morale is too low, they will leave the trip. The goal of the trip is to end up in Las Vegas with trying to keep your friendship in track and have a little extra money to spend once you get there.
+	Most of the software will be executed through for loops and while loops. In the beginning and at rest stops, much of the input that will be entered will use the input function so that we can understand the supplies that you have. At the current moment, I am not too sure how I would be able to work graphics in, so if you have any recommendations on where to learn that skill it could be useful.
+Lastly, the random function will serve as a huge asset, as I will be able to randomly decrease player morale or cause a bad accident to occur. The random mod will work in combination with counters so that if a counter reaches a certain point, then the game will end or other bad results such as a friend leaving will occur.
+	
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+Not applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Not applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+My final project will be a functioning game of inputs and chance to try and get the participants from Philadelphia to Las Vegas.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+My final projects will also include pictures to help eliminate some of the mundane aspects of just running through a python program constantly. 
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+I hope to include all of the features above along with a game that takes at least 5 minutes and requires a little bit of thinking so that all it has the same exciting feel as the Oregon Trail.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+	My next steps are to start learning how to use GitHub and how to upload images into code. The Github part should be easier as I can rewatch the leactures to learn how to do this. Additionally, I will need to do general research such as how the game works and what the routes are like from Philadelphia to Las Vegas. I believe a lot of the code revolves around things I already know, so the new code I will have to learn is the pictures.
+I will also have to figure out how to lower the workload so that I can do this all on my own. Obviously, I would not be able to recreate the whole game by myself, but I think a lighter version is definitely within my reach. Lastly, if you have any recommendations on how to help me with this project, let me know!
